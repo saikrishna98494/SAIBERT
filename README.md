@@ -5,10 +5,20 @@ BERT (Bidirectional Encoder Representations from Transformers) is a deep learnin
 
 BERT enhances language comprehension by recognizing bidirectional word relationships. It enables machines to process text similarly to humans. Key applications include:
 -->Text Classification – Identifying topics or sentiment (positive, negative, or neutral).
+
+
 -->Sentiment Analysis – Determining emotions or opinions in text data.
+
+
 -->Named Entity Recognition (NER) – Extracting important entities like names, places, and organizations.
+
+
 -->Question Answering – Understanding questions and retrieving relevant answers.
+
+
 -->Text Summarization – Generating concise summaries of large text documents.
+
+
 
 
 Installation & Requirements
